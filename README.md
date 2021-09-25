@@ -1,2 +1,2 @@
 # bansosbogornik
-Download file NIK bansos bogor
+semua yang ada disini bersifat Open Source :)
